@@ -1,0 +1,16 @@
+{
+	"name": "bgcpm",
+	"owner": {
+		"name": "Geoffrey Coulaud"
+	},
+	"metadata": {
+		"description": "Biggie G's Claude Plugin Marketplace"
+	},
+	"plugins": [
+		{
+			"name": "pick-my-brain",
+			"source": "./plugins/pick-my-brain",
+			"description": "A structured questioning skill that extracts domain knowledge from the user before planning or implementation"
+		}
+	]
+}

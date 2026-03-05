@@ -1,0 +1,8 @@
+{
+	"name": "pick-my-brain",
+	"description": "A structured questioning skill that extracts domain knowledge from the user before planning or implementation",
+	"version": "1.0.0",
+	"author": {
+		"name": "Geoffrey Coulaud"
+	}
+}
